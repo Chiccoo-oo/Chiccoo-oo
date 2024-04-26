@@ -1,5 +1,5 @@
 👋 Hi, I’m @Chiccoo-oo
-👀 I’m interested in learning various languages
+-👀 I’m interested in learning various languages
 - 🌱 I’m currently learning Java
 - 😄 Pronouns: She/her
 
