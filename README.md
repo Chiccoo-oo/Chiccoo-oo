@@ -1,7 +1,6 @@
-👋 Hi, I’m @Chiccoo-oo
+👋 Hi, I’m Anushka
 <br>
 -👀 I’m interested in learning various languages
-- 🌱 I’m currently learning Java
 - 😄 Pronouns: She/her
 
 
